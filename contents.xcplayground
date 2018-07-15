@@ -7,8 +7,6 @@
         <page name='PermMissingElem'/>
         <page name='FrogJmp'/>
         <page name='TapeEquilibrium'/>
-        <page name='PermCheck '/>
-        <page name='FrogRiverOne '/>
         <page name='MissingInteger'/>
         <page name='MaxCounters'/>
         <page name='CountDiv'/>
@@ -30,5 +28,8 @@
         <page name='MaxProfit'/>
         <page name='CountFactors'/>
         <page name='MinPerimeterRectangle'/>
+        <page name='FrogRiverOne'/>
+        <page name='PermCheck'/>
+        <page name='Flags'/>
     </pages>
 </playground>
