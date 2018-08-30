@@ -31,5 +31,6 @@
         <page name='FrogRiverOne'/>
         <page name='PermCheck'/>
         <page name='Flags'/>
+        <page name='Peaks'/>
     </pages>
 </playground>
